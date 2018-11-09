@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Locol Host Process", "Windows Locol Host Process\Windows Locol Host Process.csproj", "{7F5BFB17-2820-4170-88FC-B7E72453478B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5BFB17-2820-4170-88FC-B7E72453478B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5BFB17-2820-4170-88FC-B7E72453478B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5BFB17-2820-4170-88FC-B7E72453478B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5BFB17-2820-4170-88FC-B7E72453478B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B496F1FF-0677-4952-8927-9D72903A8307}
+	EndGlobalSection
+EndGlobal

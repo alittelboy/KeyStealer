@@ -1,0 +1,12 @@
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\bin\Release\Windows Locol Host Process.exe.config
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\bin\Release\Windows Locol Host Process.exe
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\bin\Release\Windows Locol Host Process.pdb
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows Locol Host Process.csprojResolveAssemblyReference.cache
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows Locol Host Process.csproj.ResolveComReference.cache
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows_Locol_Host_Process.Form1.resources
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows_Locol_Host_Process.Properties.Resources.resources
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows Locol Host Process.csproj.GenerateResource.cache
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows Locol Host Process.csproj.CoreCompileInputs.cache
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows Locol Host Process.exe
+E:\bc\c#\KeyStealer-master\Windows Locol Host Process\Windows Locol Host Process\obj\Release\Windows Locol Host Process.pdb
